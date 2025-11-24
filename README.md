@@ -1,1 +1,1 @@
-# ai-history.github.io
+# ai-history
